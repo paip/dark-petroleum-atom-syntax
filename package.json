@@ -1,0 +1,11 @@
+{
+  "name": "dark-petroleum-syntax",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "Perfect match for the 'Solarized Dark' UI Theme",
+  "repository": "https://github.com/atom/dark-petroleum-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
