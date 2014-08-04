@@ -1,6 +1,6 @@
 # dark-petroleum-syntax theme
 
-Perfect match for the 'Solarized Dark' UI Theme.
+Dark Petroleum syntax is the perfect match for the 'Solarized Dark' UI Theme.
 
 (Grab 'Solarized Dark' from this link: https://atom.io/themes/solarized-dark-ui)
 
